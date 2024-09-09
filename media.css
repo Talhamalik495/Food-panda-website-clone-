@@ -1,0 +1,858 @@
+@media screen and (max-width:1400px) {
+    .section2>.container {
+        width: 60%;
+        height: 80%;
+        position: absolute;
+        left: 30px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 10%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+
+    }
+}
+
+@media screen and (max-width:1300px) {
+    .section2>.container {
+        width: 65%;
+        height: 83%;
+        position: absolute;
+        left: 30px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 10%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+
+    }
+}
+
+@media screen and (max-width:1260px) {
+    .section2>.container {
+        width: 65%;
+        height: 88%;
+        position: absolute;
+        left: 30px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 10%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+
+    }
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild,
+    .section3-container2-first-maindiv-secondchild,
+    .section3-container2-first-maindiv-threechild,
+    .section3-container2-first-maindiv-fourchild,
+    .section3-container2-first-maindiv-fivetchild,
+    .section3-container2-first-maindiv-sixtchild,
+    .section3-container2-first-maindiv-seventchild,
+    .section3-container2-first-maindiv-eightchild,
+    .section3-container2-first-maindiv-ninechild,
+    .section3-container2-first-maindiv-tenchild,
+    .section3-container2-first-maindiv-elevenchild,
+    .section3-container2-first-maindiv-twelivechild,
+    .section3-container2-first-maindiv-thertychild,
+    .section3-container2-first-maindiv-fourtychild,
+    .section3-container2-first-maindiv-fiftychild,
+    .section3-container2-first-maindiv-sixtychild,
+    .section3-container2-first-maindiv-seventychild,
+    .section3-container2-first-maindiv-eightychild,
+    .section3-container2-first-maindiv-nintychild,
+    .section3-container2-first-maindiv-twentychild,
+    .section3-container2-first-maindiv-twentyonechild,
+    .section3-container2-first-maindiv-twentytwochild,
+    .section3-container2-first-maindiv-twentythreechild,
+    .section3-container2-first-maindiv-twentyfourchild,
+    .section3-container2-first-maindiv-twentyfivechild,
+    .section3-container2-first-maindiv-twentysixchild,
+    .section3-container2-first-maindiv-twentysevenchild,
+    .section3-container2-first-maindiv-twenntyeightchild,
+    .section3-container2-first-maindiv-twentyninechild,
+    .section3-container2-first-maindiv-therteenchild {
+
+        max-width: 31%;
+        height: 240px;
+        border-radius: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #f7f7f7;
+        position: relative;
+        cursor: pointer;
+    }
+
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild>button,
+    .section3-container2-first-maindiv-secondchild>button,
+    .section3-container2-first-maindiv-threechild>button,
+    .section3-container2-first-maindiv-fourchild>button,
+    .section3-container2-first-maindiv-fivetchild>button,
+    .section3-container2-first-maindiv-sixtchild>button,
+    .section3-container2-first-maindiv-seventchild>button,
+    /* .section3-container2-first-maindiv-eightchild>button, */
+    .section3-container2-first-maindiv-ninechild>button,
+    .section3-container2-first-maindiv-tenchild>button,
+    .section3-container2-first-maindiv-elevenchild>button,
+    .section3-container2-first-maindiv-twelivechild>button,
+    .section3-container2-first-maindiv-thertychild>button,
+    .section3-container2-first-maindiv-fourtychild>button,
+    .section3-container2-first-maindiv-fiftychild>button,
+    .section3-container2-first-maindiv-sixtychild>button,
+    .section3-container2-first-maindiv-seventychild>button,
+    .section3-container2-first-maindiv-eightychild>button,
+    .section3-container2-first-maindiv-nintychild>button,
+    .section3-container2-first-maindiv-twentychild>button,
+    .section3-container2-first-maindiv-twentyonechild>button,
+    .section3-container2-first-maindiv-twentytwochild>button,
+    .section3-container2-first-maindiv-twentythreechild>button,
+    .section3-container2-first-maindiv-twentyfivechild>button,
+    .section3-container2-first-maindiv-twentysixchild>button,
+    .section3-container2-first-maindiv-twentysevenchild>button,
+    .section3-container2-first-maindiv-twenntyeightchild>button,
+    .section3-container2-first-maindiv-twentyninechild>button,
+    .section3-container2-first-maindiv-therteenchild>button {
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        border-color: transparent;
+        outline: none;
+        background-color: white;
+        position: absolute;
+        top: 190px;
+        left: 10px;
+        cursor: pointer;
+    }
+
+    .section3-container2-first-maindiv-twentyfourchild>button,
+    .section3-container2-first-maindiv-eightchild>button {
+        width: 160px;
+        height: 40px;
+        border-radius: 5px;
+        border-color: transparent;
+        outline: none;
+        background-color: white;
+        position: absolute;
+        top: 190px;
+        left: 10px;
+        cursor: pointer;
+    }
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild>a>img,
+    .section3-container2-first-maindiv-secondchild>a>img,
+    .section3-container2-first-maindiv-threechild>a>img,
+    .section3-container2-first-maindiv-fourchild>a>img,
+    .section3-container2-first-maindiv-fivetchild>a>img,
+    .section3-container2-first-maindiv-sixtchild>a>img,
+    .section3-container2-first-maindiv-seventchild>a>img,
+    .section3-container2-first-maindiv-eightchild>a>img,
+    .section3-container2-first-maindiv-ninechild>a>img,
+    .section3-container2-first-maindiv-tenchild>a>img,
+    .section3-container2-first-maindiv-elevenchild>a>img,
+    .section3-container2-first-maindiv-twelivechild>a>img,
+    .section3-container2-first-maindiv-thertychild>a>img,
+    .section3-container2-first-maindiv-fourtychild>a>img,
+    .section3-container2-first-maindiv-fiftychild>a>img,
+    .section3-container2-first-maindiv-sixtychild>a>img,
+    .section3-container2-first-maindiv-seventychild>a>img,
+    .section3-container2-first-maindiv-eightychild>a>img,
+    .section3-container2-first-maindiv-nintychild>a>img,
+    .section3-container2-first-maindiv-twentychild>a>img,
+    .section3-container2-first-maindiv-twentyonechild>a>img,
+    .section3-container2-first-maindiv-twentytwochild>a>img,
+    .section3-container2-first-maindiv-twentythreechild>a>img,
+    .section3-container2-first-maindiv-twentyfourchild>a>img,
+    .section3-container2-first-maindiv-twentyfivechild>a>img,
+    .section3-container2-first-maindiv-twentysixchild>a>img,
+    .section3-container2-first-maindiv-twentysevenchild>a>img,
+    .section3-container2-first-maindiv-twenntyeightchild>a>img,
+    .section3-container2-first-maindiv-twentyninechild>a>img,
+    .section3-container2-first-maindiv-therteenchild>a>img {
+        border-radius: 15px;
+        width: 100%;
+        height: 100%;
+    }
+
+}
+
+
+
+
+
+@media screen and (max-width:960px) {
+    .section3>.section3-containe2 {
+        padding-left: 15px;
+        width: 100%;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+        z-index: -1;
+    }
+
+    .headings {
+        width: 100%;
+        padding-left: 13px;
+        font-size: 30px;
+        font-weight: bold;
+        margin-top: 200px;
+        margin-bottom: 20px;
+
+    }
+
+    .header {
+        position: static;
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+    .header>.header-right>.header-right-div1,
+    .header>.header-right>.header-right-div2 {
+        display: none;
+    }
+
+    .header>.header-right>.section-right-innerdiv {
+        display: none;
+        width: 0%;
+        height: 0%;
+    }
+
+    .header>.header-right>.section-right-innerdiv>.header-right-div3,
+    .header>.header-right>.section-right-innerdiv>.header-right-div4,
+    .header>.header-right>.section-right-innerdiv>.header-right-div5 {
+        display: none;
+    }
+
+    .header>.header-right>.header-right-div6 {
+        display: none;
+    }
+
+    .header>.header-left {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
+
+
+    .header>.header-left>.headerleft-div1 {
+        /* width: 40px;
+        height: 20px; */
+        display: flex;
+        fill: #e21b70;
+    }
+
+    .section1 {
+        /* height: 270px; */
+        height: 200px;
+
+        padding-top: 0%;
+        margin-bottom: 120px;
+
+
+    }
+
+    .section1>.section1-left {
+        height: 200px;
+    }
+
+    .section1>.section1-right {
+        height: 200px;
+        width: 50%;
+        background-image: url(./images/refresh-hero-home-pk.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+
+    .section1>.section1-left>.section1-form {
+        position: absolute;
+        left: 12px;
+        top: 242px;
+        height: 110px;
+        width: 98%;
+        margin-left: 0%;
+        display: flex;
+        flex-direction: column;
+        background-color: transparent;
+        padding-right: 5px;
+        padding-left: 5px;
+
+    }
+
+    .section1>.section1-left>.section1-form>input {
+        width: 100%;
+    }
+
+    .section1>.section1-left>.section1-form>button {
+        width: 100%;
+    }
+
+    .header>.header-left>.header-left-div4 {
+        visibility: visible;
+    }
+
+    .header>.header-left>.headerleft-div1 {
+        visibility: visible;
+        fill: #e21b70;
+
+    }
+
+    .section1>.section1-left>.section1-paragraph {
+        font-size: 30px;
+    }
+
+    .section6 {
+        padding-left: 15px;
+        padding-right: 5px;
+    }
+
+    .footer {
+        padding-left: 15px;
+    }
+
+    footer>.footer-container2>.footer-main {
+        margin-left: 0px;
+        gap: 50px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer>.footer-container2>.footer-main>.footer-container2-container2 {
+
+        display: flex;
+        align-items: center;
+    }
+
+    .footer>.footer-container2>.footer-main>.footer-container2-container3 {
+        display: flex;
+        align-items: center;
+    }
+
+    .footer>.footer-container2>.footer-main>.footer-container2-container4 {
+        display: flex;
+        align-items: center;
+    }
+
+    footer>.footer-container2 {
+        /* width: 100%; */
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .footer>.footer-container2>.footer-main>.footer-container2-container2>span>a>.foter-center-div,
+    .footer>.footer-container2>.footer-main>.footer-container2-container3>span>a>.foter-center-div,
+    .footer>.footer-container2>.footer-main>.footer-container2-container4>span>a>.foter-center-div {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .section4 {
+        padding-left: 10px;
+    }
+
+    .section4>.section4-container2 {
+        height: 530px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        margin-left: 0px;
+        padding-left: 10px;
+    }
+
+    .section4>.section4-container2>.section4-container2-containerineer2>img {
+        display: none;
+    }
+
+    .section4>.section4-container2>.section4-container2-containerineer2 {
+        display: flex;
+        justify-content: center;
+    }
+
+
+
+    .section4>.section4-container2>.section4-container2-containerineer2>p {
+        width: 95%;
+        font-size: 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:770px) {
+    .section1 {
+        height: 150px;
+        padding-top: 0%;
+        margin-bottom: 120px;
+
+
+    }
+
+    .section1>.section1-left {
+        height: 150px;
+    }
+
+    .section1>.section1-right {
+        height: 150px;
+        width: 50%;
+        background-image: url(./images/refresh-hero-home-pk.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .section1>.section1-left>.section1-paragraph {
+        padding-left: 0%;
+        padding-bottom: 5px;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .section1>.section1-left>.section1-form {
+        position: absolute;
+        left: 5px;
+        top: 200px;
+        height: 110px;
+        width: 98%;
+        margin-left: 0%;
+        display: flex;
+        flex-direction: column;
+        background-color: transparent;
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild,
+    .section3-container2-first-maindiv-secondchild,
+    .section3-container2-first-maindiv-threechild,
+    .section3-container2-first-maindiv-fourchild,
+    .section3-container2-first-maindiv-fivetchild,
+    .section3-container2-first-maindiv-sixtchild,
+    .section3-container2-first-maindiv-seventchild,
+    .section3-container2-first-maindiv-eightchild,
+    .section3-container2-first-maindiv-ninechild,
+    .section3-container2-first-maindiv-tenchild,
+    .section3-container2-first-maindiv-elevenchild,
+    .section3-container2-first-maindiv-twelivechild,
+    .section3-container2-first-maindiv-thertychild,
+    .section3-container2-first-maindiv-fourtychild,
+    .section3-container2-first-maindiv-fiftychild,
+    .section3-container2-first-maindiv-sixtychild,
+    .section3-container2-first-maindiv-seventychild,
+    .section3-container2-first-maindiv-eightychild,
+    .section3-container2-first-maindiv-nintychild,
+    .section3-container2-first-maindiv-twentychild,
+    .section3-container2-first-maindiv-twentyonechild,
+    .section3-container2-first-maindiv-twentytwochild,
+    .section3-container2-first-maindiv-twentythreechild,
+    .section3-container2-first-maindiv-twentyfourchild,
+    .section3-container2-first-maindiv-twentyfivechild,
+    .section3-container2-first-maindiv-twentysixchild,
+    .section3-container2-first-maindiv-twentysevenchild,
+    .section3-container2-first-maindiv-twenntyeightchild,
+    .section3-container2-first-maindiv-twentyninechild,
+    .section3-container2-first-maindiv-therteenchild {
+        max-width: 45%;
+        height: 220px;
+        border-radius: 15px;
+        display: flex;
+        flex-wrap: wrap;
+        background-color: #f7f7f7;
+        position: relative;
+        cursor: pointer;
+    }
+
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild>button,
+    .section3-container2-first-maindiv-secondchild>button,
+    .section3-container2-first-maindiv-threechild>button,
+    .section3-container2-first-maindiv-fourchild>button,
+    .section3-container2-first-maindiv-fivetchild>button,
+    .section3-container2-first-maindiv-sixtchild>button,
+    .section3-container2-first-maindiv-seventchild>button,
+    /* .section3-container2-first-maindiv-eightchild>button, */
+    .section3-container2-first-maindiv-ninechild>button,
+    .section3-container2-first-maindiv-tenchild>button,
+    .section3-container2-first-maindiv-elevenchild>button,
+    .section3-container2-first-maindiv-twelivechild>button,
+    .section3-container2-first-maindiv-thertychild>button,
+    .section3-container2-first-maindiv-fourtychild>button,
+    .section3-container2-first-maindiv-fiftychild>button,
+    .section3-container2-first-maindiv-sixtychild>button,
+    .section3-container2-first-maindiv-seventychild>button,
+    .section3-container2-first-maindiv-eightychild>button,
+    .section3-container2-first-maindiv-nintychild>button,
+    .section3-container2-first-maindiv-twentychild>button,
+    .section3-container2-first-maindiv-twentyonechild>button,
+    .section3-container2-first-maindiv-twentytwochild>button,
+    .section3-container2-first-maindiv-twentythreechild>button,
+    .section3-container2-first-maindiv-twentyfourchild>button,
+    .section3-container2-first-maindiv-twentyfivechild>button,
+    .section3-container2-first-maindiv-twentysixchild>button,
+    .section3-container2-first-maindiv-twentysevenchild>button,
+    .section3-container2-first-maindiv-twenntyeightchild>button,
+    .section3-container2-first-maindiv-twentyninechild>button,
+    .section3-container2-first-maindiv-therteenchild>button {
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        border-color: transparent;
+        outline: none;
+        background-color: white;
+        position: absolute;
+        top: 160px;
+        left: 10px;
+        cursor: pointer;
+    }
+
+    .section3-container2-first-maindiv-eightchild>button,
+    .section3-container2-first-maindiv-twentyfourchild>button {
+        width: 160px;
+        height: 40px;
+        border-radius: 5px;
+        border-color: transparent;
+        outline: none;
+        background-color: white;
+        position: absolute;
+        top: 160px;
+        left: 10px;
+        cursor: pointer;
+    }
+
+    .footer {
+        width: 100%;
+        padding-right: 10px;
+    }
+
+    footer>.footer-container2>.footer-main {
+        display: flex;
+        flex-direction: column;
+    }
+
+    footer>.footer-container2 {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .lastdiv {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 25px;
+    }
+
+    .section5>.section5-container1 {
+        width: 90%;
+        height: 220px;
+        background-color: white;
+        box-shadow: 0px 0px 15px 5px rgb(224, 215, 215);
+        padding-top: 15px;
+        padding-left: 15px;
+        border-radius: 10px;
+        position: absolute;
+        top: 410px;
+        left: 20px;
+        z-index: -1;
+    }
+
+    .section2>.container {
+        width: 97%;
+        height: 80%;
+        position: absolute;
+        left: 5px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 5%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+    }
+
+}
+
+
+
+
+@media screen and (max-width:528px) {
+    .section4>.section4-container2>.section4-container2-containerineer3 {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+        row-gap: 20px;
+    }
+
+    .section4>.section4-container2 {
+        height: 650px;
+    }
+
+    .section2>.container {
+        width: 97%;
+        height: 410px;
+        position: absolute;
+        left: 5px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 5%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+
+    }
+
+    .lastdiv>.lastdiv-container1 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section1 {
+        /* height: 270px; */
+        height: 180px;
+
+        padding-top: 0%;
+        margin-bottom: 120px;
+
+
+    }
+
+    .section1>.section1-left {
+        height: 180px;
+    }
+
+    .section1>.section1-right {
+        height: 180px;
+        width: 50%;
+        background-image: url(./images/refresh-hero-home-pk.webp);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .section1>.section1-left>.section1-paragraph {
+        padding-left: 0%;
+        padding-bottom: 5px;
+        font-size: 22px;
+        font-weight: bold;
+    }
+
+    .section1>.section1-left>.section1-form {
+        position: absolute;
+        left: 5px;
+        top: 220px;
+        height: 110px;
+        width: 98%;
+        margin-left: 2px;
+        display: flex;
+        flex-direction: column;
+        background-color: transparent;
+        padding-left: 0px;
+        padding-right: 0px;
+
+        margin-right: 2px;
+    }
+
+    .section1>.section1-left>.section1-form>input {
+        width: 95%;
+        height: 50px;
+        border-radius: 10px;
+        border: 0.1px solid #eaeaea;
+        padding-left: 15px;
+    }
+
+    .section1>.section1-left>.section1-form>button {
+        width: 95%;
+        height: 50px;
+        border-radius: 10px;
+        border: 0.1px solid #eaeaea;
+        padding-left: 15px;
+    }
+
+
+
+
+}
+
+@media screen and (max-width:430px) {
+    .section2>.container {
+        width: 97%;
+        height: 420px;
+        position: absolute;
+        left: 5px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 5%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+
+    }
+}
+
+@media screen and (max-width:390px) {
+    .section4>.section4-container2 {
+        height: 700px;
+    }
+
+    .section2>.container {
+        width: 97%;
+        height: 430px;
+        position: absolute;
+        left: 5px;
+        top: 300px;
+        padding-top: 3%;
+        padding-left: 2%;
+        padding-right: 5%;
+        box-shadow: 0px 0px 15px 0.5px rgb(189, 181, 181);
+        border-radius: 15px;
+        background-color: white;
+        z-index: -1;
+
+    }
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild>button,
+    .section3-container2-first-maindiv-secondchild>button,
+    .section3-container2-first-maindiv-threechild>button,
+    .section3-container2-first-maindiv-fourchild>button,
+    .section3-container2-first-maindiv-fivetchild>button,
+    .section3-container2-first-maindiv-sixtchild>button,
+    .section3-container2-first-maindiv-seventchild>button,
+    /* .section3-container2-first-maindiv-eightchild>button, */
+    .section3-container2-first-maindiv-ninechild>button,
+    .section3-container2-first-maindiv-tenchild>button,
+    .section3-container2-first-maindiv-elevenchild>button,
+    .section3-container2-first-maindiv-twelivechild>button,
+    .section3-container2-first-maindiv-thertychild>button,
+    .section3-container2-first-maindiv-fourtychild>button,
+    .section3-container2-first-maindiv-fiftychild>button,
+    .section3-container2-first-maindiv-sixtychild>button,
+    .section3-container2-first-maindiv-seventychild>button,
+    .section3-container2-first-maindiv-eightychild>button,
+    .section3-container2-first-maindiv-nintychild>button,
+    .section3-container2-first-maindiv-twentychild>button,
+    .section3-container2-first-maindiv-twentyonechild>button,
+    .section3-container2-first-maindiv-twentytwochild>button,
+    .section3-container2-first-maindiv-twentythreechild>button,
+    /* .section3-container2-first-maindiv-twentyfourchild>button, */
+    .section3-container2-first-maindiv-twentyfivechild>button,
+    .section3-container2-first-maindiv-twentysixchild>button,
+    .section3-container2-first-maindiv-twentysevenchild>button,
+    .section3-container2-first-maindiv-twenntyeightchild>button,
+    .section3-container2-first-maindiv-twentyninechild>button,
+    .section3-container2-first-maindiv-therteenchild>button {
+        width: 120px;
+        height: 40px;
+        border-radius: 5px;
+        border-color: transparent;
+        outline: none;
+        background-color: white;
+        position: absolute;
+        top: 170px;
+        left: 10px;
+        cursor: pointer;
+    }
+
+    .section3>.section3-containe2>.section3-container2-first-maindiv-firstchild>button>a,
+    .section3-container2-first-maindiv-secondchild>button>a,
+    .section3-container2-first-maindiv-threechild>button>a,
+    .section3-container2-first-maindiv-fourchild>button>a,
+    .section3-container2-first-maindiv-fivetchild>button>a,
+    .section3-container2-first-maindiv-sixtchild>button>a,
+    .section3-container2-first-maindiv-seventchild>button>a,
+    .section3-container2-first-maindiv-eightchild>button>a,
+    .section3-container2-first-maindiv-ninechild>button>a,
+    .section3-container2-first-maindiv-tenchild>button>a,
+    .section3-container2-first-maindiv-elevenchild>button>a,
+    .section3-container2-first-maindiv-twelivechild>button>a,
+    .section3-container2-first-maindiv-thertychild>button>a,
+    .section3-container2-first-maindiv-fourtychild>button>a,
+    .section3-container2-first-maindiv-fiftychild>button>a,
+    .section3-container2-first-maindiv-sixtychild>button>a,
+    .section3-container2-first-maindiv-seventychild>button>a,
+    .section3-container2-first-maindiv-eightychild>button>a,
+    .section3-container2-first-maindiv-nintychild>button>a,
+    .section3-container2-first-maindiv-twentychild>button>a,
+    .section3-container2-first-maindiv-twentyonechild>button>a,
+    .section3-container2-first-maindiv-twentytwochild>button>a,
+    .section3-container2-first-maindiv-twentythreechild>button>a,
+    .section3-container2-first-maindiv-twentyfourchild>button>a,
+    .section3-container2-first-maindiv-twentyfivechild>button>a,
+    .section3-container2-first-maindiv-twentysixchild>button>a,
+    .section3-container2-first-maindiv-twentysevenchild>button>a,
+    .section3-container2-first-maindiv-twenntyeightchild>button>a,
+    .section3-container2-first-maindiv-twentyninechild>button>a,
+    .section3-container2-first-maindiv-therteenchild>button>a {
+        text-decoration: none;
+        color: black;
+        font-size: 15px;
+    }
+
+    .section3-container2-first-maindiv-eightchild>button,
+    .section3-container2-first-maindiv-twentyfourchild>button {
+        width: 130px;
+        height: 40px;
+        border-radius: 5px;
+        border-color: transparent;
+        outline: none;
+        background-color: white;
+        position: absolute;
+        top: 170px;
+        left: 10px;
+        cursor: pointer;
+    }
+
+    .section3-container2-first-maindiv-eightchild>button>a,
+    .section3-container2-first-maindiv-twentyfourchild>button>a {
+        font-size: 15px;
+    }
+}
